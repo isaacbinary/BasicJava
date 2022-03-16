@@ -13,6 +13,7 @@
 	public int ValidateHeader() {
 		
 		System.out.println("Header link validated");
+		System.out.println("Header link validated");
 		return 2; //no need to use if type is void
 	}
 
